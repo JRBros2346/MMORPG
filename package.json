@@ -1,0 +1,27 @@
+{
+    "name": "mmorpg",
+    "version": "0.0.1",
+    "description": "My Game",
+    "type": "commonjs",
+    "dependencies": {
+        "@types/express": "^4.17.21",
+        "@types/node": "^20.14.11",
+        "express": "^4.19.2",
+        "socket.io": "^4.7.5"
+    },
+    "main": "app.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JRBros2346/MMORPG.git"
+    },
+    "author": "JRBros2346",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JRBros2346/MMORPG/issues"
+    },
+    "homepage": "https://github.com/JRBros2346/MMORPG#readme"
+}
